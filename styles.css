@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+    color: #f101a5;
+    background: #fcf7d1
+}
+
+#footer {
+   color: grey;
+}
+
+a {
+    color: #0066ff;
+}
+
+li {
+    margin-bottom: 16px;
+}
+
+.intro {
+    font-size: 24px;
+}
+
+table {
+    border: 1px solid black;
+}
+table td {
+    border: 1px solid grey;
+}
+
+img {
+    object-fit: contain;
+}
+
+.club {
+    margin-top: 32px;
+}
